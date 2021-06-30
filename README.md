@@ -17,6 +17,7 @@ If someone wanted to install this project they would need to clone the repositor
 ## Usage
 
 [Project Walk-through video (Part 1)](https://drive.google.com/file/d/1_4JW2ddp2HZ9_0ug2oI58Lo5Z7G72vFE/view)
+
 [Project Walk-through video (Part 2)](https://drive.google.com/file/d/1H0z15Gz8_WVvL0G2LtCfV1iDAILX0cpl/view)
 
 A user would use my project my sending URL requests to the server using the following routes:
